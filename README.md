@@ -35,12 +35,12 @@ This document describes the current status and the upcoming milestones of the di
 
 🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 4** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Sun Jan 01 2023**
 
-| Status | Goal | Labels | Repository                                                 |
-| :---: | :--- | --- |------------------------------------------------------------|
-| ❌ | [Landing Page on www.dialogware.com](https://github.com/dialogware/www/issues/2) |`good first issue`| [https://github.com/dialogware/www]         |
-| 🚀 | [www- update website content, slect template, update menu, use flatedit, import data from another DIALOGWARE subprojects](https://github.com/dialogware/www/issues/1) |`documentation`| [https://github.com/dialogware/www]         |
-| 🚀 | [Documentation on docs.dialogware.com](https://github.com/dialogware/docs/issues/1) |`documentation`| [https://github.com/dialogware/docs]       |
-| 🚀 | [preparing roadmap and include it on roadmap.dialogware.com](https://github.com/dialogware/roadmap/issues/1) |`documentation`| [https://github.com/dialogware/roadmap] |
+| Status | Goal | Labels | Repository                                |
+| :---: | :--- | --- |-------------------------------------------|
+| ❌ | [Landing Page on www.dialogware.com](https://github.com/dialogware/www/issues/2) |`good first issue`| [www](https://github.com/dialogware/www)     |
+| 🚀 | [www- update website content, slect template, update menu, use flatedit, import data from another DIALOGWARE subprojects](https://github.com/dialogware/www/issues/1) |`documentation`| [www](https://github.com/dialogware/www)     |
+| 🚀 | [Documentation on docs.dialogware.com](https://github.com/dialogware/docs/issues/1) |`documentation`| [docs](https://github.com/dialogware/docs)    |
+| 🚀 | [preparing roadmap and include it on roadmap.dialogware.com](https://github.com/dialogware/roadmap/issues/1) |`documentation`| [roadmap](https://github.com/dialogware/roadmap) |
 
 
 
