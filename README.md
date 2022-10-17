@@ -1,4 +1,5 @@
 
+[![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://www.dialogware.com/)
 
 # [ABOUT](https://github.com/dialogware/www/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/www/edit/main/DOCS/ABOUT.md)
 
@@ -37,9 +38,9 @@ This document describes the current status and the upcoming milestones of the di
 | Status | Goal | Labels | Repository |
 | :---: | :--- | --- | --- |
 | ❌ | [Landing Page on www.dialogware.com](https://github.com/dialogware/www/issues/2) |`good first issue`| <a href=https://github.com/dialogware/www>dialogware/www</a> |
-| ❌ | [www- update website content, slect template, update menu, use flatedit, import data from another DIALOGWARE subprojects](https://github.com/dialogware/www/issues/1) |`documentation`| <a href=https://github.com/dialogware/www>dialogware/www</a> |
-| ❌ | [Documentation on docs.dialogware.com](https://github.com/dialogware/docs/issues/1) |`documentation`| <a href=https://github.com/dialogware/docs>dialogware/docs</a> |
-| ❌ | [preparing roadmap and include it on roadmap.dialogware.com](https://github.com/dialogware/roadmap/issues/1) |`documentation`| <a href=https://github.com/dialogware/roadmap>dialogware/roadmap</a> |
+| 🚀 | [www- update website content, slect template, update menu, use flatedit, import data from another DIALOGWARE subprojects](https://github.com/dialogware/www/issues/1) |`documentation`| <a href=https://github.com/dialogware/www>dialogware/www</a> |
+| 🚀 | [Documentation on docs.dialogware.com](https://github.com/dialogware/docs/issues/1) |`documentation`| <a href=https://github.com/dialogware/docs>dialogware/docs</a> |
+| 🚀 | [preparing roadmap and include it on roadmap.dialogware.com](https://github.com/dialogware/roadmap/issues/1) |`documentation`| <a href=https://github.com/dialogware/roadmap>dialogware/roadmap</a> |
 
 
 
@@ -58,3 +59,7 @@ This document describes the current status and the upcoming milestones of the di
 + language
 
 
+
+---
+
++ [dialogware/docs](https://github.com/dialogware/docs)
