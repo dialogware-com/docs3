@@ -1,14 +1,11 @@
 
-[appFunc](https://github.com/orgs/appfunc/repositories)
 
-[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
+[![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://roadmap.dialogware.com/)
 
-[WAPKA](https://github.com/wapka-pl)
+# [MENU](https://github.com/dialogware/roadmap/blob/main/DOCS/MENU.md)  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/MENU.md)
 
-
-## ROADMAP and TASKS:
-+ [Roadmap](http://roadmap.dialogware.com/)
-+ [Todo](http://todo.dialogware.com/)
++ [Roadmap](http://roadmap.dialogware.com/) - [ROADMAP of DIALOGWARE](https://github.com/orgs/dialogware/projects/2/views/1) 
++ [Todo](http://todo.dialogware.com/) - [DIALOGWARE TASK'S](https://github.com/orgs/dialogware/projects/1/views/1)
 # [ABOUT](https://github.com/dialogware/www/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/www/edit/main/DOCS/ABOUT.md)
 
 ## DIALOGWARE
@@ -23,38 +20,24 @@ It's much cheaper and easy way than no-code or low-code solutions.
 
 + [www.dialogware.com](http://www.dialogware.com/)
 
-This document describes the current status and the upcoming milestones of the dialogware project.
-
-*Updated: Mon, 17 Oct 2022 14:12:22 GMT*
-
-#### Milestone Summary
-
-| Status | Milestone | Goals | ETA |
-| :---: | :--- | :---: | :---: |
-| 🚀 | **[Documentation](#documentation)** | ![Progress](http://progressed.io/bar/0) | Sun Jan 01 2023 |
-| 🚀 | **[Infrastructure](#infrastructure)** | ![Progress](http://progressed.io/bar/0) | Sat Apr 01 2023 |
-| 🚀 | **[Integration](#integration)** | ![Progress](http://progressed.io/bar/0) | Sat Jul 01 2023 |
-
-## Milestones and Goals
-
-#### Documentation
-
-> Creating all information necessary to explain what is and what make the DIALOGWARE ecosystem
-
-🚀 &nbsp;**OPEN** &nbsp;&nbsp;📉 &nbsp;&nbsp;**0 / 4** goals completed **(0%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Sun Jan 01 2023**
-
-| Status | Goal | Labels | Repository |
-| :---: | :--- | --- | --- |
-| ❌ | [Landing Page on www.dialogware.com](https://github.com/dialogware/www/issues/2) |`good first issue`| <a href=https://github.com/dialogware/www>dialogware/www</a> |
-| ❌ | [www- update website content, slect template, update menu, use flatedit, import data from another DIALOGWARE subprojects](https://github.com/dialogware/www/issues/1) |`documentation`| <a href=https://github.com/dialogware/www>dialogware/www</a> |
-| ❌ | [Documentation on docs.dialogware.com](https://github.com/dialogware/docs/issues/1) |`documentation`| <a href=https://github.com/dialogware/docs>dialogware/docs</a> |
-| ❌ | [preparing roadmap and include it on roadmap.dialogware.com](https://github.com/dialogware/roadmap/issues/1) |`documentation`| <a href=https://github.com/dialogware/roadmap>dialogware/roadmap</a> |
-
-
-
 #softreck #dialogware #text2software #2023
 
 
+# [MORE](https://github.com/dialogware/docs/blob/main/DOCS/MORE.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/docs/edit/main/DOCS/MORE.md)
+
+## Dialogware projects:
+
++ [Website - www.dialogware.com](http://www.dialogware.com/)
++ [Documentation - docs.dialogware.com](http://docs.dialogware.com/)
++ [Roadmap - roadmap.dialogware.com](http://roadmap.dialogware.com/)
++ [Pricing - pricing.dialogware.com](http://pricing.dialogware.com/)
+
+
+## Another projects:
+
++ [appFunc](https://github.com/orgs/appfunc/repositories)
++ [OneDay.Run](https://github.com/orgs/oneday-run/repositories)
++ [WAPKA](https://github.com/wapka-pl)
 
 ## [COMPETITORS](https://github.com/dialogware/roadmap/blob/main/DOCS/COMPETITORS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/COMPETITORS.md)
 

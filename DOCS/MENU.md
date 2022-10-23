@@ -1,10 +1,7 @@
-[appFunc](https://github.com/orgs/appfunc/repositories)
 
-[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
+[![DIALOGWARE](http://logo.dialogware.com/dialogware-2lines.png)](http://roadmap.dialogware.com/)
 
-[WAPKA](https://github.com/wapka-pl)
+# [MENU](https://github.com/dialogware/roadmap/blob/main/DOCS/MENU.md)  [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/MENU.md)
 
-
-## ROADMAP and TASKS:
-+ [Roadmap](http://roadmap.dialogware.com/)
-+ [Todo](http://todo.dialogware.com/)
++ [Roadmap](http://roadmap.dialogware.com/) - [ROADMAP of DIALOGWARE](https://github.com/orgs/dialogware/projects/2/views/1) 
++ [Todo](http://todo.dialogware.com/) - [DIALOGWARE TASK'S](https://github.com/orgs/dialogware/projects/1/views/1)
