@@ -1,0 +1,37 @@
+dialogware
+mapa
+flow
+chain
+slots
+dialogapp
+dialogmap
+dialogchain
+dialogfund
+NLRP
+texttoobject
+text2object
+texttouml
+text2uml
+Automated Software Eng
+Contract Drafting to Software Specification
+Software Specification
+Software engineering
+Real-Time Collaboration
+End-to-End Traceability
+Requirements Management
+Requirements management solution
+Programista vs Sztuczna Inteligencja?
+Co przyniesie nam sztuczna inteligencja w kolejnych latach?
+realtime distributed software applications
+nocode
+lowcode
+dialogware
+text2website
+doc2code
+text2software
+text2uml
+text2srs
+srs2web
+web2srs
+srs2dsl
+srs2code

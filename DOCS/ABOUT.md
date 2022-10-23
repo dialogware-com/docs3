@@ -1,14 +1,3 @@
-
-[appFunc](https://github.com/orgs/appfunc/repositories)
-
-[OneDay.Run](https://github.com/orgs/oneday-run/repositories)
-
-[WAPKA](https://github.com/wapka-pl)
-
-
-## ROADMAP and TASKS:
-+ [Roadmap](http://roadmap.dialogware.com/)
-+ [Todo](http://todo.dialogware.com/)
 # [ABOUT](https://github.com/dialogware/www/blob/main/DOCS/ABOUT.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/www/edit/main/DOCS/ABOUT.md)
 
 ## DIALOGWARE
@@ -53,35 +42,4 @@ This document describes the current status and the upcoming milestones of the di
 
 
 #softreck #dialogware #text2software #2023
-
-
-
-## [COMPETITORS](https://github.com/dialogware/roadmap/blob/main/DOCS/COMPETITORS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/roadmap/edit/main/DOCS/COMPETITORS.md)
-
-+ 6WIND
-+ Arista Networks 
-+ Big Switch Networks 
-+ Cisco
-+ Citrix 
-+ Dell Technologies
-+ EMC
-+ HP 
-+ IBM 
-+ Microsoft 
-+ VMware
-
-## [HASHTAGS](https://github.com/dialogware/docs/blob/main/DOCS/TAGS.md) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/dialogware/docs/edit/main/DOCS/TAGS.md)
-
-+ text2sofwtare
-+ low-code
-+ no-code
-+ API
-+ library
-+ framework
-+ scripts
-+ language
-+ Software-defined Data Center (SDDC)
-+ Software-defined Storage (SDS)
-+ Software-defined Networking (SDN)
-
 
