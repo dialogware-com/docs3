@@ -4,8 +4,9 @@
 
 + [Website - www.dialogware.com](http://www.dialogware.com/)
 + [Documentation - docs.dialogware.com](http://docs.dialogware.com/)
-+ [Roadmap - roadmap.dialogware.com](http://roadmap.dialogware.com/)
 + [Pricing - pricing.dialogware.com](http://pricing.dialogware.com/)
++ [Roadmap 2022-2023 - roadmap.dialogware.com](http://roadmap.dialogware.com/)
++ [Weekly TODO list - pricing.dialogware.com](http://todo.dialogware.com/)
 
 
 ## Another projects:
