@@ -27,6 +27,8 @@ It's much cheaper and easy way than no-code or low-code solutions.
 
 ## Dialogware projects:
 
++ [FAQ](http://faq.dialogware.com) krótkie pytania i odpowiedzi
+
 + [Website - www.dialogware.com](http://www.dialogware.com/)
 + [Documentation - docs.dialogware.com](http://docs.dialogware.com/)
 + [Pricing - pricing.dialogware.com](http://pricing.dialogware.com/)
